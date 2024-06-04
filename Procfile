@@ -1,0 +1,1 @@
+web: gunicorn Sales_Halin.wsgi --log-file -
